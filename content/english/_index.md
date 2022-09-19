@@ -1,22 +1,17 @@
 ---
 title: Fero
 header_image: /images/home_page_1_hero.jpg
-header_content: TiA, your software robot for logistics management serving the
-  needs of logistics, transportation and distribution professionals powered by
+header_content: TiA, your software robot for logistics management serving the needs of logistics, transportation and distribution professionals powered by
   Robotic Process Automation (RPA) and AI.
 user_image: /images/home_page_3_active_fero_users.png
 users: 1,000+
 man_hours: 100,000+
 man_hours_title: Freed Man-hours
 why_choose_us_title: Why Choose Us
-why_choose_us_content1: When our team gets together, great things start to
-  happen. We can solve incredibly complex problems and come up with unexpected
-  yet genius solutions.
+why_choose_us_content1: When our team gets together, great things start to happen. We can solve incredibly complex problems and come up with unexpected yet genius solutions.
 why_choose_us_content2: We have generated millions of dollars for our clients in savings.
-why_choose_us_content3: We are always excited to help our customers understand
-  how Robotic Automation Software and Artificial Intelligence can help their
-  companies increase business efficiency, lower costs reduce risks, and improve
-  competitiveness.
+why_choose_us_content3: We are always excited to help our customers understand how Robotic Automation Software and Artificial Intelligence can help their companies increase business efficiency, lower costs reduce risks, and improve
+competitiveness.
 operations_image: /images/home_page_5_operations.png
 efficiency_image: /images/home_page_7_efficiency.png
 why_now_heading: Why Now
@@ -37,9 +32,7 @@ data_image: /images/home_page_6_data.png
 cost_image: /images/home_page_8_cost.png
 frame_image: /images/home_page_frame.png
 why_now_youtube_link: https://www.youtube.com/embed/kLUfHXmqOfI
-why_now_content1: Logistics has the highest growth rate of digitalization, but
-  it is regarded as the least automated sector due to the complexity of the
-  processes.
+why_now_content1: Logistics has the highest growth rate of digitalization, but it is regarded as the least automated sector due to the complexity of the sprocesses.
 ceo_heading: “Exponential problems require exponential solutions.”
 solutions_heading: Who can benefit from our solutions
 solutions_link_title: Learn more about how Fero RPA can optimize your business
@@ -49,17 +42,12 @@ manufacturers_image: /images/home_page_14_manufacturers.jpg
 ports_image: /images/home_page_16_ports.jpg
 technologies_image4: /images/solutions_by_technology/black_and_white/infor_integrated_with_fero.png
 metakeywords: ""
-why_now_content2: As experts in business process automation, we create
-  strategies for business optimization and develop technological solutions for
-  streamline operation.
+why_now_content2: As experts in business process automation, we create strategies for business optimization and develop technological solutions for streamline operation.
 ceo_image: /images/home_page_10_abhinav.png
 ceo_content: Abhinav Chaudhary, Founder and CEO
-how_we_do_it_content1: We understand what it takes for Logistic Service
-  providers to have successful transformation and successful digitalization.
-how_we_do_it_content2: We look at how organizations can use artificial
-  intelligence (AI) to make better use of their data and resources. AI allows
-  the analysis of data and recognizes certain trends and patterns in their
-  operational processes.
+how_we_do_it_content1: We understand what it takes for Logistic Service providers to have successful transformation and successful digitalization.
+how_we_do_it_content2: We look at how organizations can use artificial intelligence (AI) to make better use of their data and resources. AI allows the analysis of data and recognizes certain trends and patterns in their
+operational processes.
 why_do_we_do_it_image: /images/home_page_11_why_do_we_do_it.png
 distributors_image: /images/home_page_13_distributors.jpg
 manufacturers_title: Manufacturers
@@ -88,9 +76,7 @@ client_logo19: /images/customer_logo/road_logistics_saudi_arabia_automation_powe
 client_logo20: /images/customer_logo/rsa.png
 client_logo21: /images/customer_logo/sevenseas_automation_powered_by_fero.png
 client_logo22: /images/customer_logo/skyex.png
-technologies_heading: TiA is very adaptable and will work with any of your
-  existing technologies, bond them together and orchestrate collaborative
-  workflow.
+technologies_heading: TiA is very adaptable and will work with any of your existing technologies, bond them together and orchestrate collaborative workflow.
 technologies_image1: /images/solutions_by_technology/black_and_white/afsys_integrated_with_fero.png
 technologies_image2: /images/solutions_by_technology/black_and_white/cargowiseone_integrated_with_fero.png
 technologies_image3: /images/solutions_by_technology/black_and_white/dell_boomi_integrated_with_fero.png
